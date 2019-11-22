@@ -11,12 +11,10 @@ class App extends React.Component {
     const { data } = this.state;
 
     console.log(data);
-    
+
     return (
       <div className="App">
-        <header className="App-header">
-
-        </header>
+        Coming soon :)
       </div>
     );
   }
